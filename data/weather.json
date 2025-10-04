@@ -1,0 +1,73 @@
+{
+  "version": "1.2",
+  "data": {
+    "city": "TigerCity",
+    "initial": {
+      "condition": "clear",
+      "intensity": 0.1
+    },
+    "conditions": [
+      "clear",
+      "clouds",
+      "rain_light",
+      "rain",
+      "storm",
+      "fog",
+      "wind",
+      "heat",
+      "cold"
+    ],
+    "transition": {
+      "clear": {
+        "clear": 0.2,
+        "clouds": 0.2,
+        "wind": 0.2,
+        "heat": 0.2,
+        "cold": 0.2
+      },
+      "clouds": {
+        "clear": 0.2,
+        "clouds": 0.2,
+        "rain_light": 0.2,
+        "wind": 0.2,
+        "fog": 0.2
+      },
+      "rain_light": {
+        "clouds": 0.333,
+        "rain_light": 0.333,
+        "rain": 0.333
+      },
+      "rain": {
+        "rain_light": 0.25,
+        "rain": 0.25,
+        "storm": 0.25,
+        "clouds": 0.25
+      },
+      "storm": {
+        "rain": 0.5,
+        "clouds": 0.5
+      },
+      "fog": {
+        "clouds": 0.333,
+        "fog": 0.333,
+        "clear": 0.333
+      },
+      "wind": {
+        "wind": 0.333,
+        "clouds": 0.333,
+        "clear": 0.333
+      },
+      "heat": {
+        "heat": 0.333,
+        "clear": 0.333,
+        "clouds": 0.333
+      },
+      "cold": {
+        "cold": 0.333,
+        "clear": 0.333,
+        "clouds": 0.333
+      }
+    },
+    "notes": "Transitions are restricted to meteorologically feasible neighbors; clients generate bursts every 60–90s."
+  }
+}
