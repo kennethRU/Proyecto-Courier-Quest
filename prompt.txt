@@ -1,0 +1,25 @@
+Como llamar un API en python 
+haz un metodo que cree el cache y los datos en general 
+como guardo informacion del API en cache 
+haga un metodo que use requests si esta disponible o que use lo guardado en cache si no lo esta 
+haz metodos de obtener la informacion desde el API o desde archivos del mapa, pedidos y clima
+Como guardar el estado del inventario 
+Agrega un contador de entregas consecutivas exitosas
+Haz una clase en Python para guardar y cargar el progreso del juego en un archivo JSON.
+como hago par que se reduzca la stamina al moverse y se regenere al quedarse quieto
+muestra en el HUD stamina, reputación, dinero, tiempo restante y clima actual
+como hago para que el personaje tenga una imagen 
+como le pongo una imagen a los objetos que son edificios
+como hago para que pueda recoger o entregar pedidos sin estar encima de ellos, es decir que pueda recogerlo estando al lado 
+ocupo que guarde la partida con la S y que se guarden todos los datos para Volver luego
+haga que la reputacion y el dinero cambien dependiendo de como se haya entregado 
+como hago para obtener el camino mas rapido del pedido y su lugar de entrega y que se vaya actualizando con cada movimiento
+como hago para que si muestre el camino rapido del primer pedido
+Cómo muevo un personaje en Pygame con las teclas de dirección
+Cómo puedo limitar el movimiento si se acaba la stamina
+como hago para guardar el progreso 
+como hago para que se vea una sola imagen en un grupo de edificios para que se vea solo uno 
+como pongo un texto en el HUD 
+como hago para que muestre un mensaje al final del juego
+
+
