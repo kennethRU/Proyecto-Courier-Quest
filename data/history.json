@@ -1,0 +1,68 @@
+[
+  {
+    "money": 980,
+    "score": 960,
+    "victory": false,
+    "reason": "No quedan pedidos disponibles."
+  },
+  {
+    "money": 1316,
+    "score": 1316,
+    "victory": false,
+    "reason": "No quedan pedidos disponibles."
+  },
+  {
+    "money": 0,
+    "score": 0,
+    "victory": false,
+    "reason": "Se acab\u00f3 la jornada."
+  },
+  {
+    "money": 1320,
+    "score": 1320,
+    "victory": false,
+    "reason": "Todos los pedidos entregados pero no alcanzaste la meta."
+  },
+  {
+    "money": 0,
+    "score": -100,
+    "victory": false,
+    "reason": "No quedan pedidos disponibles."
+  },
+  {
+    "money": 220,
+    "score": 140,
+    "victory": false,
+    "reason": "No quedan pedidos disponibles."
+  },
+  {
+    "money": 260,
+    "score": 180,
+    "victory": false,
+    "reason": "No quedan pedidos disponibles."
+  },
+  {
+    "money": 700,
+    "score": 660,
+    "victory": false,
+    "reason": "Todos los pedidos entregados pero no alcanzaste la meta."
+  },
+  {
+    "money": 1125,
+    "score": 1225,
+    "victory": true,
+    "reason": "\u00a1Todos los pedidos entregados y meta alcanzada!"
+  },
+  {
+    "money": 1125,
+    "score": 1225,
+    "victory": true,
+    "reason": "\u00a1Todos los pedidos entregados y meta alcanzada!"
+  },
+  {
+    "money": 220,
+    "score": 140,
+    "victory": false,
+    "reason": "No quedan pedidos disponibles."
+  }
+]

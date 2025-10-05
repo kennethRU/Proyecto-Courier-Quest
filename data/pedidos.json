@@ -1,0 +1,85 @@
+{
+  "version": "1.2",
+  "data": [
+    {
+      "id": "PED-001",
+      "pickup": [
+        26,
+        5
+      ],
+      "dropoff": [
+        6,
+        3
+      ],
+      "payout": 180.0,
+      "deadline": "2025-09-01T12:10Z",
+      "weight": 1,
+      "priority": 0,
+      "release_time": 0
+    },
+    {
+      "id": "PED-002",
+      "pickup": [
+        21,
+        18
+      ],
+      "dropoff": [
+        11,
+        17
+      ],
+      "payout": 260.0,
+      "deadline": "2025-09-01T12:09Z",
+      "weight": 2,
+      "priority": 1,
+      "release_time": 60
+    },
+    {
+      "id": "PED-003",
+      "pickup": [
+        8,
+        16
+      ],
+      "dropoff": [
+        14,
+        6
+      ],
+      "payout": 150.0,
+      "deadline": "2025-09-01T12:08Z",
+      "weight": 1,
+      "priority": 0,
+      "release_time": 120
+    },
+    {
+      "id": "PED-004",
+      "pickup": [
+        14,
+        5
+      ],
+      "dropoff": [
+        26,
+        4
+      ],
+      "payout": 220.0,
+      "deadline": "2025-09-01T12:12Z",
+      "weight": 3,
+      "priority": 0,
+      "release_time": 180
+    },
+    {
+      "id": "PED-005",
+      "pickup": [
+        23,
+        24
+      ],
+      "dropoff": [
+        11,
+        3
+      ],
+      "payout": 300.0,
+      "deadline": "2025-09-01T12:11Z",
+      "weight": 2,
+      "priority": 1,
+      "release_time": 240
+    }
+  ]
+}
